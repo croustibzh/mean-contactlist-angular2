@@ -3,6 +3,7 @@ import { Contact } from '../contact';
 import { ContactService } from '../contact.service';
 import { ContactDetailsComponent } from '../contact-details/contact-details.component';
 
+import {NgForm} from '@angular/forms';
 @Component({
   selector: 'contact-list',
   templateUrl: './contact-list.component.html',

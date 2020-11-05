@@ -1,4 +1,4 @@
-Automatic build and unit testing in Jenkins
+Third push to trigger automatic build and then pipeline
 
 ##MeanContactlistAngular2
 
